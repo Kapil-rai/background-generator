@@ -1,2 +1,2 @@
 # background-generator
-Generates Coolm Backgrounds for your Website!
+Generates Cool Backgrounds for your Website!
